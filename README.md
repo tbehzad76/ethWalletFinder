@@ -1,0 +1,1 @@
+This project randomly finds ethereum wallets and checks using the etherscan site, if the wallet is not empty, it will notify you using the telegram bot, and also stores the list of wallets it checks in the sqlite database.
